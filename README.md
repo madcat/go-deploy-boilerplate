@@ -1,2 +1,5 @@
-# go-deploy-boilerplate
+## go-deploy-boilerplate
 one way to deploy a service written in golang to a linux server
+
+### requirements:
+gox: cross compile
