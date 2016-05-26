@@ -7,10 +7,9 @@ doesn't need to login to server each time the program is updated.
 
 ### requirements:
 
-cross compile:
+    go get github.com/mitchellh/gox
 
-  go get github.com/mitchellh/gox
-
+_for cross compile_
 
 ### process
 
